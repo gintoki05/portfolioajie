@@ -58,15 +58,15 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: "Podcastr - AI Podcast Platform",
-    desc: "Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.",
+    title: "Dashboard TI PSP - TI Dashboard Pusri",
+    desc: "Dashboard TI PSP is a comprehensive IT management tool that visualizes key ITIL metrics. It provides real-time insights into system availability, capacity utilization, security status, storage usage, and other critical IT infrastructure elements, enabling efficient monitoring and decision-making.",
     subdesc:
-      "Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.",
-    href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
+      "Built with Next.js 14, Authjs, Shadcn UI, Dashboard TI PSP ensures a secure and user-friendly IT management dashboard, empowering IT professionals to make informed decisions and optimize their IT infrastructure.",
+    href: "#",
     texture: "/textures/project/project1.mp4",
     logo: "/assets/project-logo1.png",
     logoStyle: {
-      backgroundColor: "#2A1816",
+      backgroundColor: "#FFFFFF",
       border: "0.2px solid #36201D",
       boxShadow: "0px 0px 60px 0px #AA3C304D",
     },
@@ -74,8 +74,8 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "React.js",
-        path: "/assets/react.svg",
+        name: "Next.js",
+        path: "/assets/nextjs.svg",
       },
       {
         id: 2,
@@ -89,8 +89,8 @@ export const myProjects = [
       },
       {
         id: 4,
-        name: "Framer Motion",
-        path: "/assets/framer.png",
+        name: "Shadcn UI",
+        path: "/assets/shadcnui.svg",
       },
     ],
   },

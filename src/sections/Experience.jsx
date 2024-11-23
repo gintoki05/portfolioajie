@@ -14,8 +14,8 @@ const WorkExperience = () => {
       <div className="w-full text-white-600">
         <p className="head-text">My Work Experience</p>
 
-        <div className="work-container">
-          <div className="work-canvas">
+        <div className="flex mt-12">
+          {/* <div className="work-canvas">
             <Canvas>
               <ambientLight intensity={7} />
               <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
@@ -30,7 +30,7 @@ const WorkExperience = () => {
                 />
               </Suspense>
             </Canvas>
-          </div>
+          </div> */}
 
           <div className="work-content">
             <div className="sm:py-10 py-5 sm:px-5 px-2.5">
