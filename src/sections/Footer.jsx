@@ -21,20 +21,19 @@ const Footer = () => {
             />
           </a>
         </div>
-        {/* <div className="social-icon">
-          <img
-            src="/assets/twitter.svg"
-            alt="twitter"
-            className="w-1/2 h-1/2"
-          />
-        </div>
         <div className="social-icon">
-          <img
-            src="/assets/instagram.svg"
-            alt="instagram"
-            className="w-1/2 h-1/2"
-          />
-        </div> */}
+          <a
+            href="https://www.linkedin.com/in/muhammad-ajie-prastyo/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src="/assets/logo-linkedin.png"
+              alt="linkedin"
+              className="w-1/2 h-1/2"
+            />
+          </a>
+        </div>
       </div>
 
       <p className="text-white-500">
